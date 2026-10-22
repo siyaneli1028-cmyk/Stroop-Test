@@ -1,0 +1,6 @@
+{
+  "name": "Stroop Color-Word Test — Social Facilitation Study",
+  "description": "Standardized web-based Stroop Color-Word Test for psychology research on the effect of observation on task performance, reaction time, and cognitive interference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
